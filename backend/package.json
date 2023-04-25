@@ -9,10 +9,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Juankcba/challenge-api.git"
-  },
+  
   "keywords": [
     "challenge"
   ],
